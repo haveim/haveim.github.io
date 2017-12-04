@@ -1,0 +1,217 @@
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.have.im" resolutions="1x" timestamp="1512214163892">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="have-space.css" crc="3929711228" ref="have-space"/>
+    <file name="nomq_have-space.css" crc="4014354964" ref="have-space"/>
+    <file name="have.css" crc="4192562096" ref="have"/>
+    <file name="nomq_have.css" crc="4246588799" ref="have"/>
+    <file name="index.css" crc="467466551" ref="index"/>
+    <file name="nomq_index.css" crc="125311349" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:have:have-space"/>
+    <file name="museutils.js" crc="3803043152" ref="index:have:have-space"/>
+    <file name="whatinput.js" crc="86476730" ref="index:have:have-space"/>
+    <file name="museconfig.js" crc="4153641093" ref="index:have:have-space"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:have:have-space"/>
+    <file name="webpro.js" crc="242022427" ref="index"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="index"/>
+    <file name="touchswipe.js" crc="4066113679" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index:have:have-space"/>
+    <file name="require.js" crc="4157109226" ref="index:have:have-space"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="4131209746" ref="index"/>
+    <file name="havepic.jpg" crc="385594701" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="restaurant-bgc.png" crc="314306578" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="havelogo.png" crc="77719905" seo="true" ref="index:have:have-space">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="have" alt=""/>
+      <caption webpage="have" alt=""/>
+      <caption webpage="have-space" alt=""/>
+      <caption webpage="have-space" alt=""/>
+    </file>
+    <file name="iphone.jpg" crc="4006596729" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="android.jpg" crc="483491767" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="qrcode200.png" crc="375012260" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="havecv (1).png" crc="4007155760" seo="true" ref="index:have">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="have" alt=""/>
+      <caption webpage="have" alt=""/>
+      <caption webpage="have" alt=""/>
+    </file>
+    <file name="havecv (2).png" crc="4293497256" seo="true" ref="index:have">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="have" alt=""/>
+      <caption webpage="have" alt=""/>
+      <caption webpage="have" alt=""/>
+    </file>
+    <file name="havecv (3).png" crc="195494553" seo="true" ref="index:have">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="have" alt=""/>
+      <caption webpage="have" alt=""/>
+      <caption webpage="have" alt=""/>
+    </file>
+    <file name="havespace (1).jpg" crc="121147589" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:have:have-space"/>
+    <file name="havespace (3).jpg" crc="213549984" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="havespace (2).jpg" crc="3770608675" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="havespace (4).jpg" crc="3808306148" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="wenda.png" crc="4177041288" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="xingxiangzhao.png" crc="348400286" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="jianli.png" crc="141984272" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="company (1).jpg" crc="397669088" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="company (7).jpg" crc="4178418103" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="company (2).jpg" crc="409664750" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="company (8).jpg" crc="3809987323" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="company (3).jpg" crc="4137148355" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="company (6).jpg" crc="4093531093" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="company (4).jpg" crc="185496403" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="company (9).jpg" crc="376633782" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="company (5).jpg" crc="444669441" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="company (10).jpg" crc="463844902" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="partner (3).png" crc="4152425084" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="partner (2).png" crc="319742856" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="partner (1).png" crc="503338881" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="partner (4).png" crc="4137991001" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="havepic-u130-fr.jpg" crc="4018326319" ref="index"/>
+    <file name="space (1).jpg" crc="172960578" seo="true" ref="have-space">
+      <caption webpage="have-space" alt=""/>
+    </file>
+    <file name="space (2).jpg" crc="4201946304" seo="true" ref="have-space">
+      <caption webpage="have-space" alt=""/>
+    </file>
+    <file name="space (3).jpg" crc="4026175403" seo="true" ref="have-space">
+      <caption webpage="have-space" alt=""/>
+    </file>
+    <file name="space (1)288x162.jpg" crc="3992479265" seo="true" ref="have-space">
+      <caption webpage="have-space" alt=""/>
+    </file>
+    <file name="space (2)288x162.jpg" crc="3768134059" seo="true" ref="have-space">
+      <caption webpage="have-space" alt=""/>
+    </file>
+    <file name="space (3)288x162.jpg" crc="4080615081" seo="true" ref="have-space">
+      <caption webpage="have-space" alt=""/>
+    </file>
+    <file name="space (1)290x164.jpg" crc="3886337186" seo="true" ref="have-space">
+      <caption webpage="have-space" alt=""/>
+    </file>
+    <file name="space (2)290x164.jpg" crc="330395576" seo="true" ref="have-space">
+      <caption webpage="have-space" alt=""/>
+    </file>
+    <file name="space (3)290x164.jpg" crc="4000332792" seo="true" ref="have-space">
+      <caption webpage="have-space" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="335860076" seo="true" mt="1512213806354" redirect="true"/>
+  <file name="have.html" crc="4017718112" seo="true" mt="1512213806354" redirect="true"/>
+  <file name="have-space.html" crc="141530409" seo="true" mt="1512214100461" redirect="true"/>
+</manifest>
