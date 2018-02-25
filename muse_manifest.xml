@@ -1,18 +1,18 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.have.im" resolutions="1x" timestamp="1512214163892">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.have.im" resolutions="1x" timestamp="1519573649112">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="have-space.css" crc="3929711228" ref="have-space"/>
-    <file name="nomq_have-space.css" crc="4014354964" ref="have-space"/>
-    <file name="have.css" crc="4192562096" ref="have"/>
+    <file name="have.css" crc="190760637" ref="have"/>
     <file name="nomq_have.css" crc="4246588799" ref="have"/>
-    <file name="index.css" crc="467466551" ref="index"/>
+    <file name="index.css" crc="4216987531" ref="index"/>
     <file name="nomq_index.css" crc="125311349" ref="index"/>
+    <file name="have-space.css" crc="519375485" ref="have-space"/>
+    <file name="nomq_have-space.css" crc="381202938" ref="have-space"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:have:have-space"/>
     <file name="museutils.js" crc="3803043152" ref="index:have:have-space"/>
     <file name="whatinput.js" crc="86476730" ref="index:have:have-space"/>
-    <file name="museconfig.js" crc="4153641093" ref="index:have:have-space"/>
+    <file name="museconfig.js" crc="380897831" ref="index:have:have-space"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index"/>
     <file name="jquery.watch.js" crc="99325471" ref="index:have:have-space"/>
     <file name="webpro.js" crc="242022427" ref="index"/>
@@ -34,10 +34,10 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="have" alt=""/>
-      <caption webpage="have" alt=""/>
       <caption webpage="have-space" alt=""/>
       <caption webpage="have-space" alt=""/>
+      <caption webpage="have" alt=""/>
+      <caption webpage="have" alt=""/>
     </file>
     <file name="iphone.jpg" crc="4006596729" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -211,7 +211,7 @@
       <caption webpage="have-space" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="335860076" seo="true" mt="1512213806354" redirect="true"/>
-  <file name="have.html" crc="4017718112" seo="true" mt="1512213806354" redirect="true"/>
-  <file name="have-space.html" crc="141530409" seo="true" mt="1512214100461" redirect="true"/>
+  <file name="index.html" crc="3776818195" seo="true" mt="1512213806354" redirect="true"/>
+  <file name="have.html" crc="199418016" seo="true" mt="1519573570974" redirect="true"/>
+  <file name="have-space.html" crc="3861341139" seo="true" mt="1519573603746" redirect="true"/>
 </manifest>
